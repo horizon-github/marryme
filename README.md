@@ -1,4 +1,4 @@
-# marry-me-mc-mod
+# marry-me
 
 在我的世界举办婚礼mc游戏mod
 
