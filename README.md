@@ -1,4 +1,4 @@
-# marry-me
+# marryme
 
 在我的世界举办婚礼mc游戏mod
 
